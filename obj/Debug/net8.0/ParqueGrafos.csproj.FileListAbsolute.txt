@@ -1,0 +1,14 @@
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\bin\Debug\net8.0\ParqueGrafos.exe
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\bin\Debug\net8.0\ParqueGrafos.deps.json
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\bin\Debug\net8.0\ParqueGrafos.runtimeconfig.json
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\bin\Debug\net8.0\ParqueGrafos.dll
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\bin\Debug\net8.0\ParqueGrafos.pdb
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\obj\Debug\net8.0\ParqueGrafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\obj\Debug\net8.0\ParqueGrafos.AssemblyInfoInputs.cache
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\obj\Debug\net8.0\ParqueGrafos.AssemblyInfo.cs
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\obj\Debug\net8.0\ParqueGrafos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\obj\Debug\net8.0\ParqueGrafos.dll
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\obj\Debug\net8.0\refint\ParqueGrafos.dll
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\obj\Debug\net8.0\ParqueGrafos.pdb
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\obj\Debug\net8.0\ParqueGrafos.genruntimeconfig.cache
+C:\Users\thiag\Downloads\ParqueGrafos\ParqueGrafos\obj\Debug\net8.0\ref\ParqueGrafos.dll
